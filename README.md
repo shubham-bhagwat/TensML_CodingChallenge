@@ -2,6 +2,9 @@
 
 Welcome to the Movie Recommendation App! This application uses collaborative filtering, specifically K-Nearest Neighbors (KNN), to provide personalized movie recommendations based on user preferences. It incorporates features such as genre information and timestamps for a richer understanding of user behavior.
 
+### Link to Streamlit App:
+[https://tensmlcodingchallenge-uyiyksuohuumhybkx4xago.streamlit.app/](https://tensmlcodingchallenge-uyiyksuohuumhybkx4xago.streamlit.app/)
+
 ## Getting Started
 
 To run the Movie Recommendation App locally, follow these steps:
